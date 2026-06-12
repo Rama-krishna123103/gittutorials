@@ -8,3 +8,9 @@ git branch -M main
 git remote add origin https://github.com/Rama-krishna123103/gittutorials.git
 git remote -v
 git push origin main
+
+git status
+
+###################################################
+
+
